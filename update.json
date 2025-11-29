@@ -1,0 +1,15 @@
+{
+  "files": [{
+      "url": "https://raw.githubusercontent.com/sampdeveloperleo-prog/modpacktest/refs/heads/main/text.txt",
+      "path": "test.txt",
+      "bytes": 83,
+      "hash": "0",
+      "type": "file"
+    }
+  ]
+}
+{
+  "version": "1.0",
+  "description": "Update for modpack test",
+  "date": "2023-10-01T12:00:00Z"
+}
